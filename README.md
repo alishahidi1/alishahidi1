@@ -7,7 +7,9 @@
 ## Languages
 [![](https://img.shields.io/badge/-python3-grey?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![](https://img.shields.io/badge/-bash-grey?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/-linux-grey?style=for-the-badge&logo=linux&logoColor=white)]()
+[![](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql&logoColor=white)]()
 [![](https://img.shields.io/badge/-latex-grey?style=for-the-badge&logo=latex&logoColor=white)]()
 
 
@@ -16,6 +18,7 @@
 [![](https://img.shields.io/badge/-Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![](https://img.shields.io/badge/-Matplotlib-grey?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/-scikitlearn-grey?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 
 [![](https://img.shields.io/badge/-arduino-grey?style=for-the-badge&logo=arduino&logoColor=white)]()
 
