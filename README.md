@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/-linux-grey?style=for-the-badge&logo=linux&logoColor=white)]()
 [![](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql&logoColor=white)]()
 [![](https://img.shields.io/badge/-latex-grey?style=for-the-badge&logo=latex&logoColor=white)]()
+[![](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white)]()
 
 
 [![](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
